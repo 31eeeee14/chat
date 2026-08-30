@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'https://files.catbox.moe/xmzewt.m4a';
+    var SRC = 'https://files.catbox.moe/pqx5ch.m4a';
     var _audio = null;
     var _unlockBound = false;
 
